@@ -1,2 +1,2 @@
 # pythonmyadmin
-phpmyadmin的python简易版
+phpmyadmin的python简易版，reboot群内提的需求，就当自己深入学习mysql的一个产出吧，过完年仔细复习一下mysql开写
